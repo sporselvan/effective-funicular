@@ -1,4 +1,4 @@
-# REST API IN lambda
+# REST API IN lambda (Node.js)
 This project is a collection of code that demonstrates how to create a REST API using AWS Lambda. 
 
 No need to use express in lambda.By using this project folder structure any one can start creating REST api in Lambda.
